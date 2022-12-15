@@ -1,0 +1,15 @@
+docker_py==1.10.6
+ekphrasis==0.5.4
+gensim==4.2.0
+keras==2.9.0
+matplotlib==3.4.2
+mittens==0.2
+nltk==3.7
+numpy==1.21.4
+pytest==7.1.2
+scikit_learn==1.1.1
+scipy==1.8.1
+tensorflow==2.9.1
+torch==1.8.1
+tqdm==4.62.3
+transformers==4.20.1
