@@ -4,6 +4,8 @@ This repository contains source code used by the team MAMLS in the 2022 Computat
 
 The online version of this repository can be found at https://gitlab.ethz.ch/maml/cil-2022
 
+Please refer to the project report "Project_Report_Sentiment_Classification" provided in the repository for further information about methodology and experiment results.
+
 ## Setup
 ### Downloading necessary data
 
